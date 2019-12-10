@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "firebase-tools": "^7.9.0",
     "gatsby-cli": "^2.8.16"
   }
 }

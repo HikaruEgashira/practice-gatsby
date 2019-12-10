@@ -92,7 +92,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 🎓 Learning Tina CMS
 
-- **Head over [Tina CMS documentation](https://tinacms.org)**  to learn how to make your Gatsby site editable.
+- **Head over [Tina CMS documentation](https://tinacms.org)** to learn how to make your Gatsby site editable.
 
 ## 💫 Deploy
 
